@@ -84,10 +84,13 @@ author:
   avatar           : "images/professional.png"
   bio              : "Speech Researcher in the paset, NLP Research now"
   location         : "Baltimore, MD"
+  email            : "djiang21 at jhu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sLHuGtUAAAAJ"
+  github           : "https://github.com/Some-random"
+  linkedin         : "https://www.linkedin.com/in/dongweijiang/"
+  twitter          : "DongweiJiang8"
   employer         :
   pubmed           :  
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sLHuGtUAAAAJ"
-  email            : "djiang21 at jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +99,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dongweijiang/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DongweiJiang8"
   vine             :
   weibo            :
   xing             :
