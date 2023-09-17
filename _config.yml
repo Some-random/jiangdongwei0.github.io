@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profession.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : 
+  avatar           : "images/professional.jpeg"
+  bio              : "Speech Researcher in the paset, NLP Research now"
   location         : "Baltimore, MD"
   employer         :
   pubmed           :  
