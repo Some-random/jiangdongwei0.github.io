@@ -23,8 +23,11 @@ Previously, I've worked on logical reasoning that uses Lean to reduce hallucinat
 
 
 
-Personal Story
+About Me
 ======
 With six years of industry and research experience in speech processing and self-supervised models, my focus is now shifting to LLM. To that end, currently I'm studying at JHU as a master student and working with Professor [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Drume](https://www.cs.jhu.edu/~vandurme/).
 
-I've come to realize that my career path has a unique flair for timing. At DiDi, as I was settling into my responsibilities, the company faced industrial tensions with the Chinese regulators, leading to its delisting from NASDAQ. My tenure at YuanFuDao was influenced by the 'Double Reduction Policy' that aimed to address China's dropping birth rate. And, as I was gearing up at Shopee, the global economic crisis took center stage, throwing another curveball into my professional path.
+Reflecting on my career, I've noticed a pattern where unfortunate external events have occurred during my time at various companies, significantly influencing my professional path.
+While I was getting accustomed to my role at DiDi, the company encountered [serious regulatory issues](https://www.forbes.com/sites/ywang/2022/05/24/didi-to-delist-from-nyse-after-overwhelming-yes-vote-by-shareholders/?sh=4d105596cba0) with Chinese authorities, resulting in its removal from the NASDAQ.
+During my time at YuanFuDao, the [Double Reduction Policy](https://en.wikipedia.org/wiki/Double_Reduction_Policy) was introduced, which imposed restrictions directly affecting YuanFuDao's core business operations.
+As I was adapting to my position at Shopee, the company's stock price dropped 80% due to the global economic crisis and tensions between China and the US, leading to [extensive layoffs](https://techwireasia.com/2022/09/why-is-e-commerce-giant-shopee-on-a-layoff-spree/). 
