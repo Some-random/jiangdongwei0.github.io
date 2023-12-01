@@ -13,15 +13,14 @@ Research Focus
 ======
 I am generally interested in reasoning, which I believe is a key aspect of human intelligence that sets us apart from other species. My current focus is on integrating planning with reasoning. The emergence of large language models has bridged the gap between these two domains in several ways:
 
-1  With just a few prompts, we can easily construct an interactive environment tailored for reasoning tasks.
-2  Large language models are capable of offering feedback (rewards) for various steps (states) in the reasoning process.
-3  These models can also suggest improvements (policy updates) for reasoning strategies, enhancing the outcomes.
-
+1. With just a few prompts, we can easily construct an interactive environment tailored for reasoning tasks.
+2. Large language models are capable of offering feedback (rewards) for various steps (states) in the reasoning process.
+3. These models can also suggest improvements (policy updates) for reasoning strategies, enhancing the outcomes.
 
 I'm also working on open domain grounded reasoning that extends [NELLIE](https://arxiv.org/abs/2209.07662).
 
-
 Previously, I've worked on logical reasoning that uses Lean to reduce hallucination in the reasoning process.
+
 
 
 Personal Story
