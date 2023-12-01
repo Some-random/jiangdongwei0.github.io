@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+
 Research Focus
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have a keen interest in reasoning, which I believe is a key aspect of human intelligence that sets us apart from other species. My current focus is on integrating planning with reasoning. The emergence of large language models has bridged the gap between these two domains in several ways:
+1  With just a few prompts, we can easily construct an interactive environment tailored for reasoning tasks.
+2  Large language models are capable of offering feedback (rewards) for various steps (states) in the reasoning process .
+3  These models can also suggest improvements (policy updates) for reasoning strategies, enhancing the outcomes.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I'm also working on open domain grounded reasoning that extends [NELLIE](https://arxiv.org/abs/2209.07662).
+
+Previously, I've worked on logical reasoning that uses Lean to reduce hallucination in the reasoning process.
+
 
 Personal Story
 ======
-With six years of industry and research experience in speech processing and self-supervised models, my
-focus is now shifting to LLM, with a particular interest in enhancing its reasoning capabilities.
+With six years of industry and research experience in speech processing and self-supervised models, my focus is now shifting to LLM. To that end, currently I'm studying at JHU as a master student and working with Professor [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Drume](https://www.cs.jhu.edu/~vandurme/).
 
 I've come to realize that my career path has a unique flair for timing. At DiDi, as I was settling into my responsibilities, the company faced industrial tensions with the Chinese regulators, leading to its delisting from NASDAQ. My tenure at YuanFuDao was influenced by the 'Double Reduction Policy' that aimed to address China's dropping birth rate. And, as I was gearing up at Shopee, the global economic crisis took center stage, throwing another curveball into my professional path.
