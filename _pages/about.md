@@ -12,6 +12,7 @@ redirect_from:
 Research Focus
 ======
 I am generally interested in reasoning, which I believe is a key aspect of human intelligence that sets us apart from other species. My current focus is on integrating planning with reasoning. The emergence of large language models has bridged the gap between these two domains in several ways:
+
 1  With just a few prompts, we can easily construct an interactive environment tailored for reasoning tasks.
 2  Large language models are capable of offering feedback (rewards) for various steps (states) in the reasoning process.
 3  These models can also suggest improvements (policy updates) for reasoning strategies, enhancing the outcomes.
