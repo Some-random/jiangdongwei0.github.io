@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Speech simclr: Combining contrastive and reconstruction objective for self-supervised speech representation learning**  
+* [**Speech simclr: Combining contrastive and reconstruction objective for self-supervised speech representation learning**](https://arxiv.org/pdf/2010.13991.pdf)  
 **Dongwei Jiang**, Wubo Li, Miao Cao, Wei Zou, Xiangang Li.  
 InterSpeech, 2021.
 
@@ -37,7 +37,7 @@ arXiv preprint [arXiv:1810.13091](https://arxiv.org/abs/1810.13091), 2018.
 Wei Zou, **Dongwei Jiang**, Shuaijiang Zhao, Guilin Yang, Xiangang Li.  
 ISCSLP, 2018.
 
-* **An Analysis of Decoding for Attention-Based End-to-End Mandarin Speech Recognition**  
+* [**An Analysis of Decoding for Attention-Based End-to-End Mandarin Speech Recognition**](https://ieeexplore.ieee.org/abstract/document/8706686)  
 **Dongwei Jiang**, Wei Zou, Shuaijiang Zhao, Guilin Yang, Xiangang Li.  
 ISCSLP, 2018.
 
