@@ -8,14 +8,17 @@ author_profile: true
 
 * **Speech simclr: Combining contrastive and reconstruction objective for self-supervised speech representation learning**  
 Dongwei Jiang, Wubo Li, Miao Cao, Wei Zou, Xiangang Li
+
 InterSpeech, 2021.
 
 * **Transformer based unsupervised pre-training for acoustic representation learning** 
 Ruixiong Zhang, Haiwei Wu, Wubo Li, Dongwei Jiang, Wei Zou, Xiangang Li
+
 ICASSP, 2021.
 
 * **Didispeech: A large scale mandarin speech corpus**
 Tingwei Guo, Cheng Wen, Dongwei Jiang, Ne Luo, Ruixiong Zhang, Shuaijiang Zhao, Wubo Li, Cheng Gong, Wei Zou, Kun Han, Xiangang Li
+
 ICASSP, 2021.
 
 * **A further study of unsupervised pretraining for transformer based speech recognition**  
