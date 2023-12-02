@@ -1,16 +1,15 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### 2023
 
-{% include base_path %}
+- Doe, J., & Smith, A. (2023). Title of the Paper. *Journal Name*, 10(1), 1-10.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2022
+
+- Smith, A., & Doe, J. (2022). Another Paper Title. *Conference Proceedings*, 1234-1240.
+
