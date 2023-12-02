@@ -5,19 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Do Pre-trained Transformers Really Learn In-context by Gradient Descent?**  
-Lingfeng Shen, Aayush Mishra and Daniel Khashabi.  
-arXiv preprint [arXiv:2310.08540](https://arxiv.org/abs/2310.08540), 2023.
-
-
 * **Speech simclr: Combining contrastive and reconstruction objective for self-supervised speech representation learning**  
-Dongwei Jiang, Wubo Li, Miao Cao, Wei Zou, Xiangang Li
-
+Dongwei Jiang, Wubo Li, Miao Cao, Wei Zou, Xiangang Li.
 InterSpeech, 2021.
 
 * **Transformer based unsupervised pre-training for acoustic representation learning** 
-Ruixiong Zhang, Haiwei Wu, Wubo Li, Dongwei Jiang, Wei Zou, Xiangang Li
-
+Ruixiong Zhang, Haiwei Wu, Wubo Li, Dongwei Jiang, Wei Zou, Xiangang Li.
 ICASSP, 2021.
 
 * **Didispeech: A large scale mandarin speech corpus**
