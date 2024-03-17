@@ -8,24 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-
 Research Focus
 ======
-
 I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human annotation won't get us there. We need to teach the model to interact with the environment and self-improve. Specifically, I'm interested in:
-
-(1)  Understanding the underlying reason that prevents LLM from effective self-improvement
-
-(2)  Building an environment that provides faithful feedback for self-improvement
-
-(3)  Incorporating reasoning techniques to solve issues during self-improvement 
-<br/><br/>
+- **Understanding the underlying reason** that prevents LLM from effective self-improvement
+- **Building an environment** that provides faithful feedback for self-improvement
+- **Incorporating reasoning techniques** to solve issues during self-improvement
 
 I am also broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
-
-(1)  Logical reasoning that uses theorem prover Lean to reduce hallucination in the reasoning process
-
-(2)  Multi-step reasoning that 
+- **Logical reasoning** that uses theorem prover Lean to reduce hallucination in the reasoning process
+- **Multi-step reasoning** that 
 
 
 Selected Publications
