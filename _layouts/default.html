@@ -9,6 +9,20 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Dongwei Jiang",
+        "url": "https://www.jiangdongwei.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.yoursite.com/search/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
   </head>
 
   <body>
