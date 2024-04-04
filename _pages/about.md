@@ -10,7 +10,7 @@ redirect_from:
 
 Research Focus
 ======
-I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human annotation won't get us there. We need to teach the model to interact with the environment and self-improve. Specifically, I'm interested in:
+I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I'm interested in:
 - **Understanding the underlying reason** that prevents LLM from effective self-improvement
 - **Building an environment** that provides faithful feedback for self-improvement
 - **Incorporating reasoning techniques** to solve issues during self-improvement
@@ -34,7 +34,7 @@ Nathaniel Weir, Kate Sanders, Orion Weller, Shreya Sharma, **Dongwei Jiang**, Zh
 
 <br/>
 
-About Me
+More About Me
 ======
 With six years of industry and research experience in speech processing and self-supervised models, my focus is shifting to LLM. To that end, I'm currently studying at JHU as a master's student under the supervision of Professor [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Drume](https://www.cs.jhu.edu/~vandurme/).
 
