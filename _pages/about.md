@@ -16,8 +16,8 @@ I'm interested in the **self-improvement** capability of LLMs. If we begin with 
 - **Incorporating reasoning techniques** to solve issues during self-improvement
 
 I am also broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
-- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to reduce hallucination in the reasoning process [[1]](https://arxiv.org/abs/2403.13312)
-- **Decompositional entailment** that formulates a consistent and theoretically grounded approach [[2](https://arxiv.org/abs/2402.14798)]
+- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[1]](https://arxiv.org/abs/2403.13312)
+- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[2](https://arxiv.org/abs/2402.14798)]
 
 <br/>
 
