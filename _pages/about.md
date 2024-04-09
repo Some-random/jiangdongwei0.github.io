@@ -11,24 +11,29 @@ redirect_from:
 Research Focus
 ======
 I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I'm interested in:
-- **Understanding the underlying reason** that prevents LLM from effective self-improvement
+- **Understanding the underlying reason** that prevents LLM from effective self-improvement [[1]](https://arxiv.org/abs/2404.04298)
 - **Building an environment** that provides faithful feedback for self-improvement
 - **Incorporating reasoning techniques** to solve issues during self-improvement
 
 I am also broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
-- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[1]](https://arxiv.org/abs/2403.13312)
-- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[2](https://arxiv.org/abs/2402.14798)]
+- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[2]](https://arxiv.org/abs/2403.13312)
+- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[3]](https://arxiv.org/abs/2402.14798)
 
 <br/>
 
 Selected Publications
 ======
+* [**SELF-[IN]CORRECT: LLMs Struggle with Refining Self-Generated Responses**](https://arxiv.org/abs/2404.04298)  
+**Dongwei Jiang**, Jingyu Zhang, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi.
+arxiv preprint, 2024.
+
 * [**LeanReasoner: Boosting Complex Logical Reasoning with Lean**](https://arxiv.org/pdf/2010.13991.pdf)  
 **Dongwei Jiang**, Marcio Fonseca, Shay B. Cohen.
 NAACL Main Conference, 2024.
 
 * [**Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic**](https://arxiv.org/abs/2402.14798)  
 Nathaniel Weir, Kate Sanders, Orion Weller, Shreya Sharma, **Dongwei Jiang**, Zhengping Jiang, Bhavana Dalvi Mishra, Oyvind Tafjord, Peter Jansen, Peter Clark, Benjamin Van Durme.
+arxiv preprint, 2024.
 
 (for full publication, please visit my [Google Scholar](https://scholar.google.com/citations?user=z1PXZDEAAAAJ&hl=en))
 
