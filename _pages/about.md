@@ -11,7 +11,7 @@ redirect_from:
 Research Focus
 ======
 I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I'm interested in:
-- **Understanding the underlying reason** that prevents LLM from effective self-improvement [[1]](https://arxiv.org/abs/2404.04298)
+- **Understanding the reason** that prevents LLM from effective self-improvement [[1]](https://arxiv.org/abs/2404.04298)
 - **Building an environment** that provides faithful feedback for self-improvement
 - **Incorporating reasoning techniques** to solve issues during self-improvement
 
