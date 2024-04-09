@@ -27,7 +27,7 @@ Selected Publications
 **Dongwei Jiang**, Jingyu Zhang, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi.
 arxiv preprint, 2024.
 
-* [**LeanReasoner: Boosting Complex Logical Reasoning with Lean**](https://arxiv.org/pdf/2010.13991.pdf)  
+* [**LeanReasoner: Boosting Complex Logical Reasoning with Lean**](https://arxiv.org/pdf/2403.13312.pdf)  
 **Dongwei Jiang**, Marcio Fonseca, Shay B. Cohen.
 NAACL Main Conference, 2024.
 
