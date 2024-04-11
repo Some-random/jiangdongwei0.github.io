@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm looking for research scientist/applied scientist internship for summer/fall 2024. Don't hesitate to contact me if there is a match!
+
 Research Focus
 ======
 I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I'm interested in:
