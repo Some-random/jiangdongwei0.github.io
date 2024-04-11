@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm looking for research scientist/applied scientist internship for summer/fall 2024. Don't hesitate to contact me if there is a match!
+*I'm looking for research/applied scientist internship for summer/fall 2024. Don't hesitate to contact me if there is a match!*
+<br/>
 
 Research Focus
 ======
