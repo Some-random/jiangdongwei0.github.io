@@ -13,15 +13,18 @@ redirect_from:
 
 Research Focus
 ======
-I'm interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I'm interested in:
+I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
+- **Building general-purpose process verifier** through rationale distillation from unlabelled data
+- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[2]](https://arxiv.org/abs/2403.13312)
+- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[3]](https://arxiv.org/abs/2402.14798)
+
+I'm also interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
 - **Understanding the reason** that prevents LLM from effective self-improvement [[1]](https://arxiv.org/abs/2404.04298)
 - **Building an environment** that provides faithful feedback for self-improvement
 - **Incorporating reasoning techniques** to solve issues during self-improvement
 
-I am also broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
-- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[2]](https://arxiv.org/abs/2403.13312)
-- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[3]](https://arxiv.org/abs/2402.14798)
-
+<br/>
+The role of training data and alignment in reasoning and self-improvement has always fascinated me. I would like to explore this further when I have more time and resources.
 <br/>
 
 Selected Publications
@@ -38,7 +41,7 @@ NAACL Main Conference, 2024.
 Nathaniel Weir, Kate Sanders, Orion Weller, Shreya Sharma, **Dongwei Jiang**, Zhengping Jiang, Bhavana Dalvi Mishra, Oyvind Tafjord, Peter Jansen, Peter Clark, Benjamin Van Durme.
 arxiv preprint, 2024.
 
-(for full publication, please visit my [Google Scholar](https://scholar.google.com/citations?user=z1PXZDEAAAAJ&hl=en))
+(for a full publication, please visit my [Google Scholar](https://scholar.google.com/citations?user=z1PXZDEAAAAJ&hl=en))
 
 <br/>
 
